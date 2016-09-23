@@ -76,3 +76,5 @@ UnitTestSessionAction 1474636322292 TestBowling.java FAIL
 RefactoringAction 1474636353534 TestBowling.java ADD void test FIELD
 RefactoringAction 1474636373592 TestBowling.java RENAME test=>void testA FIELD
 EditAction 1474636953448 TestBowling.java 396 2 3 1
+CompilationAction 1474636953537 TestBowling.java
+EditAction 1474636953573 Frame.java 694 6 7 0
