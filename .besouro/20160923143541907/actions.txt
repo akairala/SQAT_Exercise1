@@ -11,3 +11,9 @@ FileOpenedAction 1474631902676 TestBowling.java 165 1 1 0
 RefactoringAction 1474631963194 TestBowling.java RENAME test()=>void testAddFrame() METHOD
 EditAction 1474632472040 TestBowling.java 173 1 1 0
 EditAction 1474632472151 BowlingGame.java 653 4 2 0
+CompilationAction 1474632472233 BowlingGame.java
+RefactoringAction 1474632841776 BowlingGame.java ADD int pins FIELD
+RefactoringAction 1474632890884 BowlingGame.java REMOVE pins FIELD
+RefactoringAction 1474632898413 BowlingGame.java ADD int pins FIELD
+RefactoringAction 1474633092956 BowlingGame.java REMOVE pins FIELD
+EditAction 1474634132559 TestBowling.java 152 1 0 0

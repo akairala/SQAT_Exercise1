@@ -6,7 +6,8 @@ public class TestBowling {
 
 	@Test
 	public void testAddFrame() {
-		fail("Not yet implemented");
+		
+		get
 	}
 
 }
