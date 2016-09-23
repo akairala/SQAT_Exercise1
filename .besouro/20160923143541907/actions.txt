@@ -1,0 +1,8 @@
+FileOpenedAction 1474630542111 BowlingGame.java 623 4 1 0
+FileOpenedAction 1474630637696 Frame.java 671 6 7 0
+FileOpenedAction 1474631105982 SudokuVerifier.java 975 1 5 0
+FileOpenedAction 1474631310984 SudokuVerifier.java 975 1 5 0
+UnitTestCaseAction 1474631569403 SudokuVerifierTest.java FAIL
+UnitTestSessionAction 1474631569404 SudokuVerifierTest.java FAIL
+FileOpenedAction 1474631751058 SudokuVerifierTest.java 1020 2 9 2
+EditAction 1474631871371 BowlingGame.java 646 4 2 0
