@@ -10,3 +10,4 @@ CompilationAction 1474631871604 BowlingGame.java
 FileOpenedAction 1474631902676 TestBowling.java 165 1 1 0
 RefactoringAction 1474631963194 TestBowling.java RENAME test()=>void testAddFrame() METHOD
 EditAction 1474632472040 TestBowling.java 173 1 1 0
+EditAction 1474632472151 BowlingGame.java 653 4 2 0
