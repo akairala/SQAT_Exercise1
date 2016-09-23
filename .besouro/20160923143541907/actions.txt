@@ -6,3 +6,7 @@ UnitTestCaseAction 1474631569403 SudokuVerifierTest.java FAIL
 UnitTestSessionAction 1474631569404 SudokuVerifierTest.java FAIL
 FileOpenedAction 1474631751058 SudokuVerifierTest.java 1020 2 9 2
 EditAction 1474631871371 BowlingGame.java 646 4 2 0
+CompilationAction 1474631871604 BowlingGame.java
+FileOpenedAction 1474631902676 TestBowling.java 165 1 1 0
+RefactoringAction 1474631963194 TestBowling.java RENAME test()=>void testAddFrame() METHOD
+EditAction 1474632472040 TestBowling.java 173 1 1 0
