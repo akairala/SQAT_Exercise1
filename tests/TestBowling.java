@@ -12,5 +12,9 @@ public class TestBowling {
 		String frames = testGame.addFrame();
 		assertEquals("testAddFrame", frames);
 	}
-
+	
+	@Test
+	public void testA() throws BowlingException {
+		fail("Not yet implemented");
+	}
 }

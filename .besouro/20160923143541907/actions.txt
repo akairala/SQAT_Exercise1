@@ -70,3 +70,9 @@ CompilationAction 1474636304669 BowlingGame.java
 UnitTestCaseAction 1474636306644 TestBowling.java OK
 UnitTestSessionAction 1474636306647 TestBowling.java OK
 EditAction 1474636320496 TestBowling.java 303 1 2 1
+CompilationAction 1474636320598 TestBowling.java
+UnitTestCaseAction 1474636322291 TestBowling.java FAIL
+UnitTestSessionAction 1474636322292 TestBowling.java FAIL
+RefactoringAction 1474636353534 TestBowling.java ADD void test FIELD
+RefactoringAction 1474636373592 TestBowling.java RENAME test=>void testA FIELD
+EditAction 1474636953448 TestBowling.java 396 2 3 1
